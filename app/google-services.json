@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "505717105952",
+    "project_id": "books-app-dap",
+    "storage_bucket": "books-app-dap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505717105952:android:52dbd05306125f7c3ea345",
+        "android_client_info": {
+          "package_name": "com.example.booksapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505717105952-siiv9on5un39sjq1r8kvk9ciocj0cu0n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-dljzsxKB1bGGUJMrFIFWMsbZIqrDCw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505717105952-siiv9on5un39sjq1r8kvk9ciocj0cu0n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
